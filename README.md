@@ -146,6 +146,12 @@
 
 ---
 
+> [!IMPORTANT]
+> - For proper trainer functionality, make sure you have the correct version and edition of the game installed.
+
+- Antivirus software may flag the trainer as a threat due to game code modification. Add the trainer to your antivirus exclusions to avoid any issues with its operation.
+
+- Use trainers only in single-player mode. Using them in online/multiplayer mode may result in account suspension or ban.
 # ❌ UNINSTALL
 
 Simply delete the trainer folder. No registry entries. No leftover files.
