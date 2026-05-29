@@ -117,3 +117,23 @@
 | NUM8 | No Clip |
 | NUM9 | Teleport |
 | NUM0 | Game Speed |
+
+---
+
+# ⬇️ DOWNLOAD [CLICK]
+
+---
+
+# 🔧 HOW TO INSTALL
+
+1. Download the archive from the releases
+2. Extract the archive
+3. Run `LegoTrainer-v1.2.exe`
+4. Follow the installer's instructions
+5. Launch the game without closing the trainer
+
+---
+
+
+
+
