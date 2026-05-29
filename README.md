@@ -2,6 +2,16 @@
 
 <img width="1456" height="704" alt="image" src="https://github.com/user-attachments/assets/cfcacf46-3af3-4718-9a0f-6d68a5dcc868" />
 
+<div align="center">
+  <p>
+    
+[![License](https://img.shields.io/badge/License-MIT-3da639?style=flat&logo=open-source-initiative&logoColor=white)](LICENSE)
+[![Download](https://img.shields.io/badge/Download-v1.2-0078d4?style=flat&logo=github&logoColor=white)](https://github.com/Protonderwhisper/LEGO-Batman-Legacy-of-the-Dark-Knight-Trainer-PC/releases/tag/v1.2)
+[![Platform](https://img.shields.io/badge/Platform-Windows-0078d4?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
+
+   </p>
+</div>
+
 # 📌About
 **Take full control of Gotham with the most advanced trainer ever made for LEGO Batman: Legacy of the Dark Knight. 34 carefully crafted options. No crashes. No bloat. Just raw, unfiltered power.**
 
