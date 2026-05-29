@@ -4,3 +4,8 @@
 
 # 📌About
 **Take full control of Gotham with the most advanced trainer ever made for LEGO Batman: Legacy of the Dark Knight. 34 carefully crafted options. No crashes. No bloat. Just raw, unfiltered power.**
+
+---
+
+# 📷Screenshot
+<img width="1195" height="628" alt="image" src="https://github.com/user-attachments/assets/2ded99b6-ffbb-4d16-ab06-966447f069fb" />
