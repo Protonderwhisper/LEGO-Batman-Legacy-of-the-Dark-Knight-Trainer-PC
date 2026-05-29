@@ -157,7 +157,7 @@ Simply delete the trainer folder. No registry entries. No leftover files.
 ---
 
 <div align="center">
-  <h3>⭐ Star this repo if the repack worked for you! ⭐</h3>
+  <h3>⭐ Star this repo if the trainer worked for you! ⭐</h3>
 </div>
 
 
