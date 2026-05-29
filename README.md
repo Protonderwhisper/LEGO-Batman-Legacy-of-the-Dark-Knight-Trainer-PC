@@ -134,6 +134,20 @@
 
 ---
 
+# ⚠️ TROUBLESHOOTING INSTALLATION
 
+| Issue | Solution |
+|-------|----------|
+| "MSVCP140.dll missing" | Install VC++ Redist from `_Redist` folder |
+| Trainer won't open | Run as Administrator |
+| Antivirus deleted trainer | Add folder to exclusions, re-download |
+| Game crashes on activation | Update GPU drivers, run game windowed |
+| Hotkeys not working | Click on trainer window first, then game |
+
+---
+
+# ❌ UNINSTALL
+
+Simply delete the trainer folder. No registry entries. No leftover files.
 
 
